@@ -1,0 +1,10 @@
+{
+    "cfgFileList":[
+        {
+            "znode":"/server/tru_statuscenter_1.0/common/config.js",
+            "targetPath":"/opt/truplatform/statuscenter/config.js",
+            "needRestart":"true"
+        }
+    ],
+    "restartShell":"/opt/truplatform/statuscenter/restart.sh"
+}
